@@ -18,7 +18,7 @@ This project performs a complete data preparation process on a BMW used car pric
 - Pandas
 - Matplotlib / Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
