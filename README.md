@@ -9,6 +9,7 @@ This project performs a complete data preparation process on a BMW used car pric
 - `bmw_project_data_preparation.ipynb`: Full EDA, cleaning, and preprocessing notebook.
 - `bmw_pricing.csv`: Original dataset with raw BMW listings.
 - `bmw_project.pdf`: PDF with Spanish-language project instructions and context.
+- `README.md`: This file.
 
 ---
 
@@ -51,3 +52,7 @@ Este proyecto trabaja con una base de datos de coches BMW con el objetivo de lim
 
 ## 📂 Estructura del Repositorio
 
+- `bmw_project_data_preparation.ipynb`: Notebook interactivo con el EDA completo, limpieza y preprocesamiento de datos.
+- `bmw_pricing.csv`: Dataset original.
+- `bmw_project.pdf`: Instrucciones del proyecto en español.
+- `README.md`: Este archivo.
